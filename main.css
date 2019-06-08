@@ -1,4 +1,3 @@
-
 body {
   padding: 0;
   margin: 0;
@@ -11,14 +10,14 @@ body {
 }
 .nav-link,
 .navbar-brand {
-  color: blue;
+  color: #fff;
   cursor: pointer;
 }
 .nav-link {
   margin-right: 1em !important;
 }
 .nav-link:hover {
-  color: purple;
+  color: #000;
 }
 .navbar-collapse {
   justify-content: flex-end;
